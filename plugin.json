@@ -1,0 +1,43 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "adspirer-analytics",
+  "displayName": "Adspirer Marketing Analytics",
+  "version": "1.0.0",
+  "description": "Read-only marketing analytics: report spend, conversions, CPA and ROAS across ad platforms, GA4 and Search Console. It never changes your accounts.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Show spend, conversions, CPA and ROAS by channel for the last 30 days, with a blended total",
+    "Audit my conversion tracking across my ad platforms, GA4 and Tag Manager",
+    "Find ad spend that is not converting and suggest what to cut"
+  ],
+  "author": {
+    "name": "Adspirer",
+    "email": "support@adspirer.com",
+    "url": "https://www.adspirer.com"
+  },
+  "homepage": "https://www.adspirer.com",
+  "repository": "https://github.com/Adspirer/adspirer-analytics-antigravity-plugin",
+  "license": "MIT",
+  "keywords": [
+    "adspirer",
+    "marketing analytics",
+    "advertising analytics",
+    "cross-channel reporting",
+    "attribution",
+    "roas",
+    "cpa",
+    "google ads",
+    "meta ads",
+    "tiktok ads",
+    "linkedin ads",
+    "amazon ads",
+    "microsoft ads",
+    "google analytics",
+    "ga4",
+    "search console",
+    "tag manager",
+    "conversion tracking",
+    "wasted spend",
+    "read-only"
+  ]
+}
