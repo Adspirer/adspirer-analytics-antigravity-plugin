@@ -4,10 +4,7 @@
   "displayName": "Adspirer Marketing Analytics",
   "version": "1.0.0",
   "description": "Read-only marketing analytics: report spend, conversions, CPA and ROAS across ad platforms, GA4 and Search Console. It never changes your accounts.",
-  "category": [
-    "Productivity",
-    "Marketing"
-  ],
+  "category": "Productivity",
   "logo": "assets/logo.svg",
   "suggestedPrompts": [
     "Show spend, conversions, CPA and ROAS by channel for the last 30 days, with a blended total",
